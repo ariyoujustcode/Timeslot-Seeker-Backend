@@ -1,0 +1,82 @@
+# Credentials / tokens (do not commit)
+credentials.json
+token.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.nox/
+.pytest_cache/
+coverage.xml
+*.cover
+*.coverage
+.coverage.*
+htmlcov/
+
+# Virtualenv
+venv/
+env/
+.venv/
+ENV/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Editor / IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Logs
+*.log
+
+# Secrets and local config
+*.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints
+
+# System files
+Thumbs.db
+ehthumbs.db
+
+# npm / node (if any front-end)
+node_modules/
+
+# pip cache
+.cache/pip
+
+# local sqlite DBs
+*.db
+
+# Terraform (if any)
+.terraform/
+
+# Misc
+coverage/
+
+# Keep by accident: lock files created by some editors
+*.swp
